@@ -1,0 +1,16 @@
+{
+  "short_name": "A7X Player",
+  "name": "A7X Music Player Pribadi",
+  "icons": [
+    {
+      "src": "gmb.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f1014",
+  "theme-color": "#16181f",
+  "display": "standalone",
+  "orientation": "portrait"
+}
